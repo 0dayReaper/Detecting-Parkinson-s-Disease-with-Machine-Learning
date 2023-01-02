@@ -1,0 +1,11 @@
+numpy
+pandas
+os
+sys
+sklearn
+collections
+seaborn
+matplotlib
+xgboost==1.7.2
+lux==0.5.1
+imblearn==0.0
